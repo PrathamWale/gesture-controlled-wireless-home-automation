@@ -109,6 +109,10 @@ Home Appliances
 - Tested transmitter and receiver operation as a two-node wireless system.
 - Demonstrated real-time response to predefined tilt-based gestures.
 
+## Project Demo
+
+🎥 [Watch the Gesture-Controlled Home Automation Demo on YouTube](https://youtube.com/shorts/ShCPz-nK8F4)
+
 ## Future Improvements
 
 - Web-based control dashboard
