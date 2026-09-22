@@ -20,6 +20,10 @@ Relay Module
    ↓
 Electrical Appliances
 
+## Block Diagram
+
+![System Block Diagram](./block-diagram.png)
+
 ## Circuit Diagram
 
 ![Circuit Diagram](./circuit-diagram.png.png)
