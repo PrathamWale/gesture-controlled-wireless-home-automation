@@ -18,17 +18,19 @@ The system uses an MPU6050 motion sensor to detect hand movement and tilt. The g
 
 ## System Architecture
 
-MPU6050
-   ↓
+Hand Gesture
+      ↓
+MPU6050 Sensor
+      ↓
 ESP32 Transmitter
-   ↓
+      ↓
 ESP-NOW Wireless Communication
-   ↓
+      ↓
 ESP32 Receiver
-   ↓
+      ↓
 Relay Module
-   ↓
-Electrical Appliances
+      ↓
+Home Appliances
 
 ## Block Diagram
 
