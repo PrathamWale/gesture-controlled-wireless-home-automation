@@ -22,7 +22,7 @@ Electrical Appliances
 
 ## Circuit Diagram
 
-![Circuit Diagram](./circuit-diagram.png)
+![Circuit Diagram](./circuit-diagram.png.png)
 
 ## Project Hardware
 
