@@ -101,6 +101,14 @@ Home Appliances
 - IoT Automation
 - Wireless Appliance Control
 
+## Results
+
+- Successfully implemented wireless communication between two ESP32 boards using ESP-NOW.
+- Integrated MPU6050-based gesture detection for appliance control.
+- Implemented gesture-based switching of multiple electrical loads through relay modules.
+- Tested transmitter and receiver operation as a two-node wireless system.
+- Demonstrated real-time response to predefined tilt-based gestures.
+
 ## Future Improvements
 
 - Web-based control dashboard
