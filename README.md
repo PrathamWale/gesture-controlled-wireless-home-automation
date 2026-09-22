@@ -20,6 +20,14 @@ Relay Module
    ↓
 Electrical Appliances
 
+## Project Hardware
+
+### Transmitter
+![ESP32 Transmitter](./transmitter-gesture-home-automation.jpg)
+
+### Receiver
+![ESP32 Receiver](./receiver-gesture-home-automation.jpg)
+
 ## Hardware Components
 
 - ESP32 DevKit × 2
