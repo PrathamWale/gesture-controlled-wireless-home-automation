@@ -6,6 +6,16 @@ This project is an ESP32-based wireless home automation system that allows elect
 
 The system uses an MPU6050 motion sensor to detect hand movement and tilt. The gesture information is processed by an ESP32 transmitter and sent wirelessly to a receiver ESP32 using the ESP-NOW communication protocol. The receiver then controls electrical appliances through relay modules.
 
+## My Contribution
+
+- Designed the overall ESP32-based system architecture.
+- Developed the transmitter and receiver firmware using Arduino IDE.
+- Interfaced the MPU6050 motion sensor with ESP32 using I2C.
+- Implemented gesture detection using pitch and roll measurements.
+- Implemented ESP-NOW communication between the transmitter and receiver ESP32.
+- Integrated relay control for switching multiple appliances.
+- Tested and debugged the wireless communication and gesture-based control.
+
 ## System Architecture
 
 MPU6050
