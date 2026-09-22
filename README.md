@@ -22,11 +22,9 @@ Electrical Appliances
 
 ## Project Hardware
 
-### Transmitter
-![ESP32 Transmitter](./transmitter-gesture-home-automation.jpg)
+![ESP32 Transmitter](./transmitter-gesture-home-automation.jpg.png)
 
-### Receiver
-![ESP32 Receiver](./receiver-gesture-home-automation.jpg)
+![ESP32 Receiver](./receiver-gesture-home-automation.jpg.png)
 
 ## Hardware Components
 
