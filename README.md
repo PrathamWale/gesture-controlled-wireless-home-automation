@@ -20,6 +20,10 @@ Relay Module
    ↓
 Electrical Appliances
 
+## Circuit Diagram
+
+![Circuit Diagram](./circuit-diagram.png)
+
 ## Project Hardware
 
 ![ESP32 Transmitter](./transmitter-gesture-home-automation.jpg.png)
