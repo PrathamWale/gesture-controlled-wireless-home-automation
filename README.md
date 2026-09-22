@@ -111,7 +111,9 @@ Home Appliances
 
 ## Project Demo
 
-🎥 [Watch the Gesture-Controlled Home Automation Demo on YouTube](https://youtube.com/shorts/ShCPz-nK8F4)
+[![Gesture-Controlled Home Automation Demo](./youtube-demo-thumbnail.png)](https://youtube.com/shorts/ShCPz-nK8F4)
+
+🎥 **[Watch the full project demo on YouTube](https://youtube.com/shorts/ShCPz-nK8F4)**
 
 ## Future Improvements
 
