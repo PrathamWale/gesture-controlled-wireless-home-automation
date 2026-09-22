@@ -109,6 +109,28 @@ Home Appliances
 - Tested transmitter and receiver operation as a two-node wireless system.
 - Demonstrated real-time response to predefined tilt-based gestures.
 
+  ## Challenges & Solutions
+
+### 1. MPU6050 Sensor Noise
+Raw motion readings were not always stable during gesture detection.
+
+**Solution:** Implemented smoothing and threshold-based processing to reduce false gesture detection.
+
+### 2. Unwanted Repeated Gestures
+A single hand movement could sometimes trigger multiple commands.
+
+**Solution:** Implemented gesture locking and neutral-position logic to prevent repeated triggering.
+
+### 3. Wireless Communication
+Reliable command transmission between the transmitter and receiver was required for real-time appliance control.
+
+**Solution:** Implemented ESP-NOW communication between the two ESP32 nodes and tested the transmitter-receiver workflow.
+
+### 4. Multiple Appliance Control
+The receiver needed to distinguish between commands for different appliances.
+
+**Solution:** Used structured command data containing appliance identification and action information to control the appropriate relay.
+
 ## Project Demo
 
 [![Gesture-Controlled Home Automation Demo](./youtube-demo-thumbnail.png)](https://youtube.com/shorts/ShCPz-nK8F4)
